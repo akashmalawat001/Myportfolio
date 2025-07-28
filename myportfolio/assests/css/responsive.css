@@ -1,0 +1,10 @@
+
+@media (min-width: 1400px) {}
+
+
+@media (max-width: 320px) {
+    .about_img {
+        width: 296px;
+        height: 419px;
+    }
+}
